@@ -1,6 +1,9 @@
 body {
   font-family: "Montserrat";
 }
+.zbib {
+  margin-left: 350px;
+}
 
 #title {
   background-color: #F6DA55;
@@ -15,6 +18,12 @@ h1 {
   font-size: 3em;
   line-height: 1.5;
   font-weight: 900;
+}
+h2 {
+  font-family: "Montserrat" , sans-serif;
+  font-weight: bold;
+  font-size: 2.5rem;
+
 }
 h3 {
   font-family: "Montserrat";
@@ -56,10 +65,23 @@ p {
 }
 .feature-box {
   text-align: center;
-  padding: 5%;
+  padding: 4.5%;
 }
-/* Icon */
 .icon {
   color: #19456b;
-  margin-top: 1.5rem;
+  margin-bottom: 1rem;
+}
+.icon:hover {
+  opacity: 0.5;
+}
+
+/* Testimonials */
+#testimonials {
+  padding: 7% 15%;
+  text-align: center;
+  background-color: #F6DA55;
+}
+.testimonial-image {
+  width: 50%;
+  
 }
