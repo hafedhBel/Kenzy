@@ -58,3 +58,8 @@ p {
   text-align: center;
   padding: 5%;
 }
+/* Icon */
+.icon {
+  color: #19456b;
+  margin-top: 10px;
+}
