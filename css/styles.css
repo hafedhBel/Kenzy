@@ -135,5 +135,6 @@ p {
   .title-img {
     position: static;
     transform: rotate(5deg);
+    width: 30%;
   }
 }
