@@ -1,6 +1,5 @@
 body {
   font-family: "Montserrat";
-  margin: 0;
 }
 
 #title {
@@ -8,7 +7,7 @@ body {
 }
 
 .container-fluid {
-  padding: 0.2% 10%;
+  padding: 0.3% 10%;
 }
 
 h1 {
@@ -116,11 +115,13 @@ p {
   padding: 100px;
   text-align: center;
 }
+
 #cta {
   background-color: #03506f;
   text-align: center;
   padding-top: 3%;
 }
+
 #footer {
   text-align: center;
   font-size: 1.4rem;
@@ -131,7 +132,11 @@ p {
   padding: 3% 2%;
 }
 
-@@media (max-width:1028px) {
+@media (max-width:1028px) {
+  #title {
+    text-align: center;
+  }
+
   .title-img {
     position: static;
     transform: rotate(5deg);
