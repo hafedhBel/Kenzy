@@ -58,10 +58,12 @@ p {
 .title-img {
   width: 72%;
   transform: rotate(25deg);
+  z-index: -1;
 }
 /* features section */
 #features {
   padding: 7% 15%;
+  background-color: #fff;
 }
 .feature-box {
   text-align: center;
@@ -94,4 +96,8 @@ p {
 .press-logo {
   width: 15%;
   margin: 20px 20px 50px;
+}
+#pricing {
+  padding: 100px;
+  text-align: center;
 }
