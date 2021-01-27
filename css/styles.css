@@ -56,14 +56,16 @@ p {
 }
 /* title-image */
 .title-img {
-  width: 72%;
+  width: 22%;
   transform: rotate(25deg);
-  z-index: -1;
+  position: absolute;
+
 }
 /* features section */
 #features {
   padding: 7% 15%;
   background-color: #fff;
+  position: relative;
 }
 .feature-box {
   text-align: center;
