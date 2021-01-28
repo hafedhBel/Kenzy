@@ -132,6 +132,16 @@ p {
 .pricing-column {
   padding: 3% 2%;
 }
+.websites {
+  background-color: white;
+  padding-top: 20px;
+  text-align: center;
+  position: relative;
+  margin-bottom: 10px;
+}
+.footer-link {
+  margin: 11px;
+}
 
 @media (max-width:1028px) {
   #title {
