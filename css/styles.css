@@ -3,7 +3,7 @@ body {
 }
 
 #title {
-  background-color: #F6DA55;
+  background-color: #03506f;
 }
 
 .container-fluid {
@@ -12,7 +12,7 @@ body {
 
 h1 {
   font-family: 'Montserrat', sans-serif;
-  color: #464644;
+  color: #FFFF00;
   font-size: 3em;
   line-height: 1.5;
   font-weight: 900;
@@ -87,7 +87,8 @@ p {
 /* Testimonials */
 #testimonials {
   text-align: center;
-  background-color: #F6DA55;
+  background-color: #03506f;
+;
 }
 
 .testimonial-image {
@@ -101,7 +102,7 @@ p {
 }
 
 #press {
-  background-color: #F6DA55;
+  background-color: #03506f;
   text-align: center;
   padding-bottom: 3%;
 }
